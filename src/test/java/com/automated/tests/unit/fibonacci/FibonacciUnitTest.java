@@ -5,7 +5,14 @@ import org.junit.Test;
 public class FibonacciUnitTest {
 
     @Test
-     public void methodeDeTestARemplacer() {
-
+    public void methodeDeTestARemplacer() {
+        // Given
+        
+        
+        // When
+        
+        
+        // Then
+        
     }
 }
